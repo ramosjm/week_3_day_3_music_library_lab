@@ -24,5 +24,11 @@ album2 = Album.new ({
   'artist_id' => artist2.id
 })
 
+
+artist1.save
+
+album1.save
+
+
   binding.pry
   nil
